@@ -1,5 +1,5 @@
-# Anti Forensic Scripti
-# Bu script sistem izlerini ve dijital kalıntıları yönetmeye yardımcı olur
+# AAdli Bilişim İzleri Temizleme Aracı
+# Bu PowerShell scripti, adli bilişim araştırmalarında dijital izleri yönetmek ve temizlemek için tasarlanmıştır.
 # Lütfen yasal çerçeve içinde kullanınız
 
 function Write-LogInfo {
